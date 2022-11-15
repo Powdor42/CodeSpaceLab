@@ -37,7 +37,12 @@
 			"extensions": [
 				"ms-dotnettools.csharp",
 				"ms-mssql.mssql",
-				"ms-dotnettools.blazorwasm-companion"
+				"ms-dotnettools.blazorwasm-companion",
+				"ms-vscode.azurecli",
+				"GitHub.codespaces",
+				"ms-vscode-remote.remote-containers",
+				"ms-azuretools.vscode-azureterraform",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
